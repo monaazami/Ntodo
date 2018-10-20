@@ -1,0 +1,13 @@
+body{
+    background-color: #FFE0E0;
+    margin: 100px auto;
+    width: 60%;
+}
+ul{
+    border: 2px solid black;
+    margin: auto;
+    padding:40px;
+    font-family: sans-serif;
+    font-size: 24px;
+    background-color: rosybrown;
+}
